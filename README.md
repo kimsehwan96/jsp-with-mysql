@@ -6,6 +6,9 @@
 - JavaBeans(with DB)
 - MySQL
 - Bootstrap (For front code Design)
+- Apache Tomcat (for WebServer)
+
+- JMT(존맛탱 스택) JSP + MySQL + Tomcat
 
 ## 하고자 하는 목표
 - 어느정도 따라해보다가, 추상화된 기능을 구체화
